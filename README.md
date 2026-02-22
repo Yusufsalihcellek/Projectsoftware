@@ -1,1 +1,1 @@
-# Project
+This is a team project.
